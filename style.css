@@ -490,7 +490,7 @@ img {
     border-radius: 5rem;
     margin-bottom: .5rem;
     margin-left: 8rem;
-    background-image: url(./assets/testM_img.jpg);
+    background-image: url('./assets/testM_img.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
