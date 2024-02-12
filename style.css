@@ -367,27 +367,27 @@ img {
 }
 
 .portfolio-card:nth-child(1) {
-    background-image: url("/assets/villaProject.jpg");
+    background-image: url("./assets/villaProject.jpg");
 }
 
 .portfolio-card:nth-child(2) {
-    background-image: url("/assets/company_project.jpg");
+    background-image: url("./assets/company_project.jpg");
 }
 
 .portfolio-card:nth-child(3) {
-    background-image: url("/assets/shopping_project.jpg");
+    background-image: url("./assets/shopping_project.jpg");
 }
 
 .portfolio-card:nth-child(4) {
-    background-image: url("/assets/socialMproject.jpg");
+    background-image: url("./assets/socialMproject.jpg");
 }
 
 .portfolio-card:nth-child(5) {
-    background-image: url("/assets/EducatonProject.jpg");
+    background-image: url("./assets/EducatonProject.jpg");
 }
 
 .portfolio-card:nth-child(6) {
-    background-image: url("/assets/financeProject.jpg");
+    background-image: url("./assets/financeProject.jpg");
 }
 
 .portfolio-card::before {
